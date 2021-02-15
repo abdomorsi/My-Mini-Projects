@@ -1,11 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
-
 Name : Abdelrahman Mohammed Ahmed Morsy 
-ID : 20170149
-group : cs-is 2
 
  */
 package processes;
@@ -110,7 +104,7 @@ public class Operations {
     
     public static void CreateNewBankAccount(String userID, double initialBalanceAmount) throws SQLException{
         try {
-            //System.out.println("CNA");
+            
             int BankAccID = generateValidAccountID();
             Connection conn = createConnection();
             java.util.Date date = new java.util.Date();
