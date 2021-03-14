@@ -1,0 +1,22 @@
+SMAP
+searchResults_jsp.java
+JSP
+*S JSP
+*F
++ 0 searchResults.jsp
+searchResults.jsp
++ 1 head.jsp
+includes/head.jsp
+*L
+5:49
+1#1,46:50
+6#0,68:95
+74,4:164
+77:168
+78:169,3
+79,8:172
+87:180,3
+88,12:183
+100:195,3
+101,12:198
+*E
